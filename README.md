@@ -1,4 +1,4 @@
-# To do
+# 2DO
 App para listagem de tarefas
 
 ## Critérios de aceite
@@ -11,3 +11,7 @@ App para listagem de tarefas
  6. Ver lista de cards concluídos
  7. Re-abrir cards concluídos
  8. Ordenar lista
+
+# layout
+
+![alt text](layout/to-do-layout.jpg?raw=true "2DO")
